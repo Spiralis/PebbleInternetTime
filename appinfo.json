@@ -1,0 +1,25 @@
+{
+    "longName": "Internet Time",
+    "companyName": "Flexy",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    },
+    "appKeys": {},
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon_internet_time.png",
+                "name": "IMAGE_MENU_ICON",
+                "type": "png",
+                "menuIcon": true
+            }
+        ]
+    },
+    "uuid": "2d9c5986-26a7-424f-8568-0d0595f8f9bb",
+    "capabilities": [
+        ""
+    ],
+    "shortName": "Internet Time",
+    "versionCode": 1
+}
